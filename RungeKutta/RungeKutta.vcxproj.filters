@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы\Charts">
+      <UniqueIdentifier>{93c1e330-af08-4153-954d-0c4162e5d720}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Charts">
+      <UniqueIdentifier>{4a2e7306-0d9b-4dac-923c-1013c01bbe52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Заголовочные файлы\Video">
+      <UniqueIdentifier>{59170a58-0116-4a97-9460-b51d3744c29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Video">
+      <UniqueIdentifier>{8643eff6-9fa8-49cc-9db1-e894c63adc33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Заголовочные файлы\Models">
+      <UniqueIdentifier>{1622f55b-19a5-4610-a455-152f98c2bff0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Models">
+      <UniqueIdentifier>{189fe3e8-ae29-44ab-a0d3-cf8d1ddfd178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Заголовочные файлы\UI">
+      <UniqueIdentifier>{28487335-e89b-4e3a-b4b0-a71f05ce75b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\UI">
+      <UniqueIdentifier>{7c817363-cfee-4693-9ef3-8fa9ba948ff1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="global.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgMain.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="Chart.cpp">
+      <Filter>Файлы исходного кода\Charts</Filter>
+    </ClCompile>
+    <ClCompile Include="ChartContainer.cpp">
+      <Filter>Файлы исходного кода\Charts</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexBuffer.cpp">
+      <Filter>Файлы исходного кода\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="VideoManeger.cpp">
+      <Filter>Файлы исходного кода\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="EcoCl.cpp">
+      <Filter>Файлы исходного кода\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelDescription.cpp">
+      <Filter>Файлы исходного кода\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="RungeKutta.cpp">
+      <Filter>Файлы исходного кода\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="WinUI.cpp">
+      <Filter>Файлы исходного кода\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ChartColorScheme.cpp">
+      <Filter>Файлы исходного кода\Charts</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelConstructorUI.cpp">
+      <Filter>Файлы исходного кода\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Файлы исходного кода\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgMain.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Chart.h">
+      <Filter>Заголовочные файлы\Charts</Filter>
+    </ClInclude>
+    <ClInclude Include="ChartContainer.h">
+      <Filter>Заголовочные файлы\Charts</Filter>
+    </ClInclude>
+    <ClInclude Include="VideoManeger.h">
+      <Filter>Заголовочные файлы\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBuffer.h">
+      <Filter>Заголовочные файлы\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="EcoCl.h">
+      <Filter>Заголовочные файлы\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="MathParser.h">
+      <Filter>Заголовочные файлы\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelDescription.h">
+      <Filter>Заголовочные файлы\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="RungeKutta.h">
+      <Filter>Заголовочные файлы\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Заголовочные файлы\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ChartColorScheme.h">
+      <Filter>Заголовочные файлы\Charts</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelConstructorUI.h">
+      <Filter>Заголовочные файлы\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Заголовочные файлы\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="WinUI.h">
+      <Filter>Заголовочные файлы\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RungeKutta.rc">
+      <Filter>Файлы ресурсов</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="big.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

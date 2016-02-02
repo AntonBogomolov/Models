@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CLog" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAIAAAAYAAIEAMgAAFBFIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CProgMain" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACQAAgAAggAAIEECAIAIgAAABCECAEDAACIABA=</HashCode>
+      <FileName>ProgMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChart">
+    <Position X="11" Y="0.5" Width="5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AtCiEoGEJDDTV2QJ0QopDFhQACgBQD2IbXzyCFEIAQY=</HashCode>
+      <FileName>Chart.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartColorScheme" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECSBIAACgAAAAAAKAAIACIAAgAggAAABCAEAAAAAAgA=</HashCode>
+      <FileName>ChartColorScheme.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartContainer" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SACAkACgAChiIAIEAQAACAAhIAABAQIEAggAAQAYiAI=</HashCode>
+      <FileName>ChartContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModelCharts" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAADAAYAAAAAAAAAAAAAAAAAAAAAAAACIgAA=</HashCode>
+      <FileName>ChartContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartCollection" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABACAAAAAAAAAAABAgAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ChartContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTexture" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAEAAAAAAAAADAgIAAAAAAAAAAQAgFAAAAAAA=</HashCode>
+      <FileName>Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVertexBuffer" Collapsed="true">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAgAAAAAAACAAAAAAEEQAAAAAAABAEAgAAAgA=</HashCode>
+      <FileName>VertexBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVideoManeger" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAACACASAwAAAAAQQBABAAAIJQABDAAQABAQ=</HashCode>
+      <FileName>VideoManeger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIControl" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIUAAAIAIAAAAEBAhBAAABBBAAAAAEUAAABiAEIABgE=</HashCode>
+      <FileName>WinUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIContainer" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAEBAAIAAABAAAgAAYAgAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>WinUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinUI" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIEAAEhAACKAAIQQRBwEBkBAAAkIoAAIAAACQEBACBA=</HashCode>
+      <FileName>WinUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEcoModel" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIKAAACABAACACAAAAAAABAAAAhMgiAAAAAQEBBCAAA=</HashCode>
+      <FileName>EcoCl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLexem" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAEAAAAAAACAAACAAAAABgAA=</HashCode>
+      <FileName>MathParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFunction" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAKAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MathParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFunctionList" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAARAAEEIgQAAAAAAAAAAAAAAAAAEABAgAA=</HashCode>
+      <FileName>MathParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVar" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAFAigAAAAAAAAAAEA=</HashCode>
+      <FileName>MathParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVarList" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAQAEAAAAAAEAAAAAgAAIAAQAAQAAFEAEg=</HashCode>
+      <FileName>MathParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMathParser">
+    <Position X="11" Y="1.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AIQgAEFAAgAAQAUAAiAgAAoBEgAAAIIDgABICQAGEwA=</HashCode>
+      <FileName>MathParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartDescription" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCwAAAAABAACPCgAAAAEIAIEAiQAAAAAAg=</HashCode>
+      <FileName>ModelDescription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModelDescription" Collapsed="true">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCmsFgIwAYgCABcAIgAJAEFQAAYNkqgIUAIIEABIJBE=</HashCode>
+      <FileName>ModelDescription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRungeKutta" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACIAGAAACAQQAAAACAATQAAEByAAAAMwgkFCjIAA=</HashCode>
+      <FileName>RungeKutta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModelConstructorUI" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIYECAAADDABCAEAAAAAAQAAAQKgBCEAABAAABQAAQ=</HashCode>
+      <FileName>ModelConstructorUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Box" Collapsed="true">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Chart.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SColor" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAIAQABAAAAAAA=</HashCode>
+      <FileName>ChartColorScheme.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="byte" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Texture.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
